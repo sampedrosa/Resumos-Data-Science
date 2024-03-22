@@ -13,5 +13,5 @@ Os títulos e subtítulos estão em inglês, mas o conteúdo está em português
 **Criado e Publicado por Samuel Pedrosa:** [linkedin.com/in/samuelfrancapedrosa](https://www.linkedin.com/in/samuelfrancapedrosa/)
 
 **Referências:**
-https://www.udemy.com/course/cientista-de-dados/
-https://roadmap.sh/ai-data-scientist
+- [FCD: Curso Udemy Formação Cientista de Dados](https://https://www.udemy.com/course/cientista-de-dados/learn)
+- [Artificial Intelligence and Data Scientist Roadmap](https://https://roadmap.sh/ai-data-scientist)
