@@ -6,7 +6,7 @@ Realizei anotações e testes em Notebooks (Python) durante meus primeiros estud
 Os títulos e subtítulos estão em inglês, mas o conteúdo está em português e foi escrito por mim. O reposítório possui cinco Notebooks:
 - **💻 INTRODUCTION:** Notebook com uma introdução sobre Ciência de Dados, suas ferramentas, softwares e ambientes mais utilizados.
 - **📚 STATISTICS:** Explicações, fundamentos e análises de Estatística com ênfase na aplicação em Ciência de Dados.
-- **🧠 ARTIFICIAL INTELIGENCE:** Explicações teóricas e práticas sobre Inteligência Artificial, principalmente Aprendizado por Modelagem Preditiva.
+- **🧠 ARTIFICIAL INTELIGENCE:** Explicações teóricas e práticas sobre Inteligência Artificial, principalmente Modelagem Preditiva.
 - **🚚 RAW-DATA TO STRUCTURED-DATA (DATA ENGINEERING):** Explicação dos processos inciciais na cadeia de dados (ETL e Big Data).
 - **📊 STRUCTURED-DATA TO USEFULL-INFORMATION (DATA ANALYSIS):** Explicação dos processos finais na cadeia de dados, além de recomendações para Visualização de Dados e BI.
 
